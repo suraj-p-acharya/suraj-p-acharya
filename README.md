@@ -40,8 +40,5 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/suraj-p-acharya/suraj-p-acharya/output/snake.svg" alt="Snake animation" />
 
 ###
